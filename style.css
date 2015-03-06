@@ -1,0 +1,45 @@
+body {
+  font-family: Helvetica;
+}
+
+input, button {
+  font-size: 1.5em;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+dt {
+  margin-right: 0.5em;
+  float: left;
+  font-weight: bold;
+}
+
+.poster {
+  float: left;
+  margin-right: 0.5em;
+  width: 300px;
+}
+
+.detail-body {
+  float: left;
+  width: 840px;
+}
+
+.pull-right {
+  float: right;
+}
+
+.favorites {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.favorites-showing {
+  width: 300px;
+  background-color: lightgoldenrodyellow;
+  height: 300px;
+}
